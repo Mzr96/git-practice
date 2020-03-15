@@ -29,3 +29,4 @@ while counter>=0:
     
 'adding some comments for practicing git'
 'good morning for git test'
+'what happen to diff command'
