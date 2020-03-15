@@ -13,3 +13,7 @@ print('hello')
 
 'reset command is also used to get back to specific log'
 'git reset --hard dd9358f8ad323759571c1fc55926d0e0048900ce '
+
+'diff command compare curent status with recent one'
+'git diff'
+
