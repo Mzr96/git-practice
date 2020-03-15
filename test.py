@@ -3,5 +3,7 @@ print('hello')
 '''i'm going to practice checkout command in git'''
 'checkout command reverse your project one step'
 'git checkout -- rewards.py'
+'and it works before commit '
 
-'test line'
+'using reset command for unstaging'
+'git reset HEAD test.py'
