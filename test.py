@@ -20,4 +20,6 @@ print('hello')
 'git log -p give us log history with more details'
 'in other words it gives us exact changes'
 
+'git log --oneline gives us details in shorter terms '
+
 
