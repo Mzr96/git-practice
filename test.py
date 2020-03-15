@@ -9,4 +9,7 @@ print('hello')
 'git reset HEAD test.py'
 
 'amend command is used for editing last log or commit definition'
-'git commit --amend -m "new definition"'
+'git commit --amend -m "new definition'
+
+'reset command is also used to get back to specific log'
+'git reset --hard dd9358f8ad323759571c1fc55926d0e0048900ce '
