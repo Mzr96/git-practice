@@ -7,3 +7,6 @@ print('hello')
 
 'using reset command for unstaging'
 'git reset HEAD test.py'
+
+'amend command is used for editing last log or commit definition'
+'git commit --amend -m "new definition"'
