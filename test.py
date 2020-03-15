@@ -26,3 +26,7 @@ print('hello')
 'and using diff comand we can compare demanding log with curent status'
 'git diff 01cfa3d'
 
+'git blame test.py command shows log in diffrent but useful way'
+'i can not give more details it to hard to define it by words'
+'try it to undestand'
+
