@@ -22,4 +22,7 @@ print('hello')
 
 'git log --oneline gives us details in shorter terms '
 
+'by getting the hash code from previous step'
+'and using diff comand we can compare demanding log with curent status'
+'git diff 01cfa3d'
 
