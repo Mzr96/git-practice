@@ -14,6 +14,10 @@ print('hello')
 'reset command is also used to get back to specific log'
 'git reset --hard dd9358f8ad323759571c1fc55926d0e0048900ce '
 
-'diff command compare curent status with recent one'
+'diff command compare curent status(before commiting) with recent one'
 'git diff'
+
+'git log -p give us log history with more details'
+'in other words it gives us exact changes'
+
 
