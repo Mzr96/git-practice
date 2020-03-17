@@ -30,3 +30,6 @@ print('hello')
 'i can not give more details it to hard to define it by words'
 'try it to undestand'
 
+'for changingin the existing file mv command is used'
+'''git mv 'current name' 'new dile name' '''
+
