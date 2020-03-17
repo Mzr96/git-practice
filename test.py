@@ -36,4 +36,7 @@ print('hello')
 'for deleting a specific file rm command is used'
 ''' git rm 'filename' '''
 
+'git diff --staged'
+'showing the changes of files which are in stage mood'
+
 
